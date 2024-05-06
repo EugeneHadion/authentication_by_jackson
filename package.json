@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "jackson24": "^1.0.1"
+  }
+}
